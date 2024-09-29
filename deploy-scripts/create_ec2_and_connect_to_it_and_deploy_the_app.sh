@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to your SSH key
-KEY_TO_SSH_REMOTE_EC2="/home/ubuntu/environment/eddieweekend.pem"# AWS EC2 instance details
+KEY_TO_SSH_REMOTE_EC2="/home/ubuntu/environment/eddieweekend.pem"
 
 # AWS EC2 instance details
 image_id="ami-04a8190f5e58c8529"
